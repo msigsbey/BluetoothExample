@@ -16,6 +16,8 @@
 	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Looking for BT devices in range</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 </dict>
